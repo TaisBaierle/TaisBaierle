@@ -27,5 +27,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=29F742&width=600&lines=%F0%9F%93%8A+Stats)](https://git.io/typing-svg)
 ----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaisBaierle&show_icons=true&theme=react&title_color=b7d5ac&bg_color=00000000&hide_border=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaisBaierle&show_icons=true&theme=react&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaisBaierle&hide_progress=true&bg_color=00000000&hide_border=true)
