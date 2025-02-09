@@ -48,6 +48,10 @@
 <picture>
 <img src="https://img.shields.io/badge/Gmail-FD1D1D?style=for-the-badge&logo=gmail&logoColor=white"</img>
 </picture>
+<picture>
+<img src="https://img.shields.io/badge/Linkedin-FD1D1D?style=for-the-badge&logo=linkedin&logoColor=white"</img>
+</picture>
+
 
 
 
