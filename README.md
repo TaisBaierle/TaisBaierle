@@ -27,12 +27,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=29F742&width=600&lines=%F0%9F%93%8A+Stats)](https://git.io/typing-svg)
 ----
 <picture>
-<img  width = "40% "src = "https://github-readme-stats.vercel.app/api?username=TaisBaierle&show_icons=true&theme=react&title_color=b7d5ac&hide_border=true&bg_color=00000000"</img>
+<img  width = "40%" src = "https://github-readme-stats.vercel.app/api?username=TaisBaierle&show_icons=true&theme=react&title_color=b7d5ac&hide_border=true&bg_color=00000000"</img>
 </picture>
 
 <picture>
-<img  width = "40% "src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TaisBaierle&hide_progress=true&title_color=b7d5ac&bg_color=00000000&hide_border=true"</img>
+<img  width = "40%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TaisBaierle&hide_progress=true&title_color=b7d5ac&bg_color=00000000&hide_border=true"</img>
 </picture>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TaisBaierke&theme=react&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=000000&fire=4AEB56" alt="GitHub Streak" /></a>
+<picture>
+<img width = "40%" src="https://streak-stats.demolab.com?user=TaisBaierke&theme=react&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=000000&fire=4AEB56"</img>
+</picture>
+
 
