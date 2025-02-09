@@ -18,7 +18,6 @@
 ----
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaisBaierle&repo=AppOCR)](https://github.com/TaisBaierle/AppOCR)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaisBaierle&repo=ChatJava)](https://github.com/TaisBaierle/ChatJava)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaisBaierle&repo=LabirintoIA)](https://github.com/TaisBaierle/LabirintoIA)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaisBaierle&show_icons=true&bg_color=00000000&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=TaisBaierle&theme=tokyonight-duo&hide_border=true&border_radius=5.8&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
