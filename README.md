@@ -25,7 +25,7 @@
 </picture>
 
 <picture>
-<img  width = "10% "src = "https://github-readme-stats.vercel.app/api/pin/?username=TaisBaierle&repo=Conversor&theme=react&&title_color=b7d5ac&bg_color=#000000&order_color=#000000"</img>
+<img  width = "25% "src = "https://github-readme-stats.vercel.app/api/pin/?username=TaisBaierle&repo=Conversor&theme=react&&title_color=b7d5ac&bg_color=#000000&order_color=#000000"</img>
 </picture>
 
 
