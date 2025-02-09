@@ -5,11 +5,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=29F742&width=600&separator=%3C&lines=Console.log('Hello+World!!')%3CSystem.out.println(%22Hello+World!!%22);%3CReadln(%22Hello+World!!%22);)](https://git.io/typing-svg)
 
 <div>
+  
   - 😊 Passionate about web development, I love working with React and NodeJS.
   - 💻 I work as a Delphi developer, and I study web programming and develop personal projects.
   - 📖 I currently have a degree in **Sistemas de Informação** at Universidade Feevale.
   - 🌱 I'm also interested in studying ReactJS and non-relational databases.
   - 🌟 **Pronouns:** She/Her.
+  
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=29F742&width=600&lines=%F0%9F%92%9A+Favorite+repositories)](https://git.io/typing-svg)
