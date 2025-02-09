@@ -2,8 +2,8 @@
 
 ![Header (1)](https://github.com/user-attachments/assets/8bdd05d6-2ba5-48e8-ae43-e8f9caf5a211)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=1000&color=58C9F7&width=435&separator=%3C&lines=Readln(%22Hello+World!!%22);)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=1000&color=F738B9&width=435&separator=%3C&lines=System.out.println(%22Hello+World!!%22);)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=58C9F7&width=435&separator=%3C&lines=Readln(%22Hello+World!!%22);)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=F738B9&width=435&separator=%3C&lines=System.out.println(%22Hello+World!!%22);)](https://git.io/typing-svg)
 
 <!--
 **TaisBaierle/TaisBaierle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
