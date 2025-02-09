@@ -24,6 +24,9 @@
 <img  width = "30% "src = "https://github-readme-stats.vercel.app/api/pin/?username=TaisBaierle&repo=ChatJava&theme=react&&title_color=b7d5ac&bg_color=#000000&order_color=#000000"</img>
 </picture>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=29F742&width=600&lines=%F0%9F%92%BB+Working+with)](https://git.io/typing-svg)
+----
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=29F742&width=600&lines=%F0%9F%93%8A+Stats)](https://git.io/typing-svg)
 ----
 <picture>
