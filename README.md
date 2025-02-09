@@ -11,5 +11,5 @@
   - 💻 I work as a Delphi developer, and I study web programming and develop personal projects.
   - 📖 I currently have a degree in **Sistemas de Informação** at Universidade Feevale.
   - 🌱 I'm also interested in studying ReactJS and non-relational databases.
-  -🎇 **Pronouns:** She/Her. 
+  - 🎇 **Pronouns:** She/Her. 
 </div>
