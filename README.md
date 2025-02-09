@@ -13,3 +13,73 @@
   - 🌱 I'm also interested in studying ReactJS and non-relational databases.
   - 🌟 **Pronouns:** She/Her. 
 </div>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Badges de Repositórios Favoritos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+
+        .container {
+            background-color: #d1f7d7; /* Quadro verde claro */
+            padding: 20px;
+            border-radius: 10px;
+            margin: 50px auto;
+            max-width: 800px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        .badges {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        .badge {
+            text-decoration: none;
+            font-size: 14px;
+            color: #333;
+        }
+
+        .badge img {
+            vertical-align: middle;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Meus Repositórios Favoritos no GitHub</h1>
+        <div class="badges">
+            <!-- Badge 1 -->
+            <a href="https://github.com/username/repository1" class="badge" target="_blank">
+                <img src="https://img.shields.io/badge/GitHub-Repo1-blue" alt="Repo1 Badge">
+            </a>
+            <!-- Badge 2 -->
+            <a href="https://github.com/username/repository2" class="badge" target="_blank">
+                <img src="https://img.shields.io/badge/GitHub-Repo2-green" alt="Repo2 Badge">
+            </a>
+            <!-- Badge 3 -->
+            <a href="https://github.com/username/repository3" class="badge" target="_blank">
+                <img src="https://img.shields.io/badge/GitHub-Repo3-red" alt="Repo3 Badge">
+            </a>
+        </div>
+    </div>
+
+</body>
+</html>
+
