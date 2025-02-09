@@ -43,10 +43,10 @@
 
 <br>
 <picture>
-<img width = "10%" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"</img>
+<img width src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"</img>
 </picture>
 <picture>
-<img width = "10%" src="https://img.shields.io/badge/Gmail-FD1D1D?style=for-the-badge&logo=gmail&logoColor=white"</img>
+<img src="https://img.shields.io/badge/Gmail-FD1D1D?style=for-the-badge&logo=gmail&logoColor=white"</img>
 </picture>
 
 
