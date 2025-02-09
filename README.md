@@ -34,7 +34,5 @@
 <img  width = "40% "src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TaisBaierle&hide_progress=true&title_color=b7d5ac&bg_color=00000000&hide_border=true"</img>
 </picture>
 
-<picture>
-<img  width = "40% "src = "https://streak-stats.demolab.comuser=TaisBaierke&theme=react&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=000000&fire=4AEB56title_color=b7d5a)"</img>
-</picture>
+[![GitHub Streak](https://streak-stats.demolab.com?user=TaisBaierke&theme=react&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=000000&fire=4AEB56)](https://git.io/streak-stats)
 
