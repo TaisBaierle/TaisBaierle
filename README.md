@@ -18,6 +18,7 @@
 ----
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaisBaierle&show_icons=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaisBaierle&layout=compact&bg_color=00000000)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TaisBaierle&theme=tokyonight-duo&hide_border=true&border_radius=5.8&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
