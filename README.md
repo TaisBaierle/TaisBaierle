@@ -41,7 +41,9 @@
 <img width = "40%" src="https://streak-stats.demolab.com?user=TaisBaierke&theme=react&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=000000&fire=4AEB56"</img>
 </picture>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TaisBaierke&theme=react&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=000000&fire=4AEB56)](https://git.io/streak-stats)
+<picture>
+<img width = "40%" src="https://streak-stats.demolab.com?user=TaisBaierke&theme=react&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=000000&fire=4AEB56" alt="GitHub Streak" /img>
+</picture>
 
 <br>
 <picture>
