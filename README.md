@@ -18,6 +18,7 @@
 ----
 <picture>
 <img  width = "30% "src = "https://github-readme-stats.vercel.app/api/pin/?username=TaisBaierle&repo=AppOCR&theme=react&bg_color=#000000&title_color=b7d5ac&order_color=#000000"</img>
+  <img  width = "30% "src = "https://github-readme-stats.vercel.app/api/pin/?username=TaisBaierle&repo=ChatJava&theme=react&bg_color=#000000&title_color=b7d5ac&order_color=#000000"</img>
 </picture>
 
 
