@@ -43,7 +43,7 @@
 
 <br>
 <picture>
-<img width = "10%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</img>
+<img width = "10%" src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</img>
 </picture>
 <picture>
 <img width = "10%" src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white"</img>
