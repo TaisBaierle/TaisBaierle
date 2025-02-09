@@ -1,6 +1,7 @@
 ##  <div align = "center"> 👋 Hi! I'm `@TaisBaierle`, welcome to my `Github Profile` (❁´◡`❁). </div>
 
-![Header Github](https://github.com/user-attachments/assets/977fd053-b510-4739-b95c-29fbda06ba95)
+![Header Github](https://github.com/user-attachments/assets/c88f5813-b634-460d-ab72-dc5504e6a2ac)
+
 
 
 <!--
