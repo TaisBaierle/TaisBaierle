@@ -1,4 +1,7 @@
-## Hi there 👋
+##  <div align = "center"> 👋 Hi! I'm `@TaisBaierle`, welcome to my `Github Profile` (❁´◡`❁). </div>
+
+![Header Github](https://github.com/user-attachments/assets/977fd053-b510-4739-b95c-29fbda06ba95)
+
 
 <!--
 **TaisBaierle/TaisBaierle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
