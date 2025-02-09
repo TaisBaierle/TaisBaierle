@@ -3,6 +3,8 @@
 ![Header (1)](https://github.com/user-attachments/assets/8bdd05d6-2ba5-48e8-ae43-e8f9caf5a211)
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15F775&width=435&lines=Console.log('Hello+world!!'))](https://git.io/typing-svg)
+
 
 <!--
 **TaisBaierle/TaisBaierle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
