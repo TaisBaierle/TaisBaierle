@@ -17,7 +17,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=29F742&width=600&lines=%F0%9F%92%9A+Favorite+repositories)](https://git.io/typing-svg)
 ----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaisBaierle)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaisBaierle&layout=compact)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TaisBaierle&theme=tokyonight-duo&hide_border=true&border_radius=5.8&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
