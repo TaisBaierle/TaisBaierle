@@ -4,7 +4,8 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15F775&width=435&lines=Console.log('Hello+world!!'))](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F542F7&width=435&lines=System.out.println(%22Hello+World!!%22))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F753A1&width=435&lines=System.out.println(%22Hello+World!!%22))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58C9F7&width=435&separator=%3C&lines=Readln(%22Hello+World!!%22);)](https://git.io/typing-svg)
 
 
 <!--
