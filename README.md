@@ -24,6 +24,11 @@
 <img  width = "30% "src = "https://github-readme-stats.vercel.app/api/pin/?username=TaisBaierle&repo=AppOCR&theme=react&bg_color=#000000&title_color=b7d5ac&order_color=#000000"</img>
 </picture>
 
+<picture>
+<img  width = "30% "src = "https://github-readme-stats.vercel.app/api/pin/?username=TaisBaierle&repo=AppOCR&theme=react&bg_color=#000000&title_color=b7d5ac&order_color=#000000"</img>
+</picture>
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaisBaierle&show_icons=true&bg_color=00000000&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=TaisBaierle&theme=tokyonight-duo&hide_border=true&border_radius=5.8&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
