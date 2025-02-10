@@ -30,7 +30,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=29F742&width=600&lines=%F0%9F%93%8A+Stats)](https://git.io/typing-svg)
 ----
 <picture>
-<img  width = "30%" src = "https://github-readme-stats.vercel.app/api?username=TaisBaierle&show_icons=true&theme=react&title_color=b7d5ac&hide_border=true&bg_color=00000000"</img>
+<img  width = "40%" src = "https://github-readme-stats.vercel.app/api?username=TaisBaierle&show_icons=true&theme=react&title_color=b7d5ac&hide_border=true&bg_color=00000000"</img>
 </picture>
 
 <picture>
@@ -38,7 +38,7 @@
 </picture>
 
 <picture>
-<img width = "30%" src = "https://streak-stats.demolab.com?user=TaisBaierle&theme=transparent&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&fire=72EB6A&sideLabels=72EB6A&currStreakLabel=72EB6A&ring=72EB6A&stroke=72EB6A&currStreakNum=72EB6A&sideNums=72EB6A"/img>
+<img width = "40%" src = "https://streak-stats.demolab.com?user=TaisBaierle&theme=transparent&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&fire=72EB6A&sideLabels=72EB6A&currStreakLabel=72EB6A&ring=72EB6A&stroke=72EB6A&currStreakNum=72EB6A&sideNums=72EB6A"/img>
 </picture>
 
 <br>
