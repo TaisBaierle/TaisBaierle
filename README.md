@@ -34,7 +34,7 @@
 </picture>
 
 <picture>
-<img  width = "30%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TaisBaierle&hide_progress=true&title_color=b7d5ac&bg_color=00000000&hide_border=true"</img>
+<img  width = "40%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TaisBaierle&hide_progress=true&title_color=b7d5ac&bg_color=00000000&hide_border=true"</img>
 </picture>
 
 <picture>
