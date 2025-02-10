@@ -5,7 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=29F742&width=600&separator=%3C&lines=Console.log('Hello+World!!')%3CSystem.out.println(%22Hello+World!!%22);%3CReadln(%22Hello+World!!%22);)](https://git.io/typing-svg)
 
 <div>
-  
+
+  ![download20250200230801](https://github.com/user-attachments/assets/7a51ab78-b1bc-40f4-b18a-6a61790f7fa4)
+
   - 😊 Passionate about web development, I love working with React and NodeJS.
   - 💻 I work as a Delphi developer, and I study web programming and develop personal projects.
   - 📖 I currently have a degree in **Sistemas de Informação** at Universidade Feevale.
