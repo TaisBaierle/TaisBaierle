@@ -37,7 +37,7 @@
 <img  width = "10%" src = "https://img.icons8.com/?size=100&id=74402&format=png&color=000000"</img>
 </picture>
 <picture>
-<img   width = "10%" src = "https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000"</img>
+<img   width = "20%" src = "https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000"</img>
 </picture>
 <picture>
 <img   width = "20%" src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logoColor=white"</img>
