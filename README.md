@@ -42,8 +42,9 @@
 </picture>
 
 <picture>
-<img width = "40%" src="https://streak-stats.demolab.com?user=TaisBaierle&theme=react&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&fire=4AEB56"/img>
+<img width = "40%" src="https://streak-stats.demolab.com?user=TaisBaierle&theme=transparent&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&fire=4AEB56&sideLabels=72EB6A&currStreakLabel=72EB6A&ring=26A200&stroke=388B00"/img>
 </picture>
+
 
 <br>
 <picture>
