@@ -25,9 +25,9 @@
 </picture>
 
 <br>
-<picture align = "center">
+<picture>
   <a href="https://github.com/TaisBaierle?tab=repositories">
-<img width src="https://img.shields.io/badge/Click_here_for_all_repos-40B5AD?style=for-the-badge&logo=github&logoColor=white"</img>
+<img align = "center" src="https://img.shields.io/badge/Click_here_for_all_repos-40B5AD?style=for-the-badge&logo=github&logoColor=white"</img>
 </picture>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=29F742&width=600&lines=%F0%9F%92%BB+Working+with)](https://git.io/typing-svg)
