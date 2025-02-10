@@ -26,7 +26,7 @@
 
 <br>
 <picture align = "center">
-<img width src="https://img.shields.io/badge/Book-E1306C?style=for-the-badge&logo=book&logoColor=white"</img>
+<img width src="https://img.shields.io/badge/All_repos-E1306C?style=for-the-badge&logo=book&logoColor=white"</img>
 </picture>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=29F742&width=600&lines=%F0%9F%92%BB+Working+with)](https://git.io/typing-svg)
