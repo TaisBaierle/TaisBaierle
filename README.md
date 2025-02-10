@@ -37,6 +37,10 @@
 <img  width = "10%" src = "https://github.com/user-attachments/assets/a00a917f-e9ad-4965-8b00-8b84bb97cb97"</img>
 </picture>
 
+<picture>
+<img  width = "10%" src = "https://github.com/user-attachments/assets/8b4c3bdf-eaf8-4472-9ff5-674627549833"</img>
+</picture>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=29F742&width=600&lines=%F0%9F%93%8A+Stats)](https://git.io/typing-svg)
 ----
