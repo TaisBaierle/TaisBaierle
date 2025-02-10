@@ -33,18 +33,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=29F742&width=600&lines=%F0%9F%92%BB+Working+with)](https://git.io/typing-svg)
 ----
+![mongodb_original_wordmark_logo_icon_146425](https://github.com/user-attachments/assets/a00a917f-e9ad-4965-8b00-8b84bb97cb97)
 
-<picture>
-<img  width = "10%" src = "https://icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png"</img>
-</picture>
-
-<picture>
-<img   width = "10%" src = "https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000"</img>
-</picture>
-
-<picture>
-<img   width = "20%" src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logoColor=white"</img>
-</picture>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=29F742&width=600&lines=%F0%9F%93%8A+Stats)](https://git.io/typing-svg)
 ----
