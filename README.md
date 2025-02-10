@@ -16,7 +16,7 @@
 
 <div>
 <picture>
-<img  width = "40%" src = "https://github.com/user-attachments/assets/7a51ab78-b1bc-40f4-b18a-6a61790f7fa4"</img>
+<img  width = "20%" src = "https://github.com/user-attachments/assets/7a51ab78-b1bc-40f4-b18a-6a61790f7fa4"</img>
 </picture>
 </div>
 
