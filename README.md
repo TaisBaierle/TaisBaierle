@@ -34,10 +34,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=29F742&width=600&lines=%F0%9F%92%BB+Working+with)](https://git.io/typing-svg)
 ----
 <picture>
-<img  width = "10%" src = "https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt = "MongoDB"</img>
+<img  width = "10%" src = "https://img.icons8.com/?size=100&id=74402&format=png&color=000000"</img>
 </picture>
 <picture>
-<img   width = "20%" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logoColor=white"</img>
+<img   width = "10%" src = "https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000"</img>
 </picture>
 <picture>
 <img   width = "20%" src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logoColor=white"</img>
