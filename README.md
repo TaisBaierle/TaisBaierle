@@ -34,7 +34,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=29F742&width=600&lines=%F0%9F%92%BB+Working+with)](https://git.io/typing-svg)
 ----
 <picture>
-<img  width = "10%" src = "https://github.com/user-attachments/assets/b7210d49-4d33-44a1-bb28-0f6a7f46c556"</img>
+<img  width = "10%" src = "https://github.com/user-attachments/assets/04d4f58f-08ed-4d58-9409-cbb619eb34f2"</img>
 </picture>
 
 <picture>
@@ -42,7 +42,7 @@
 </picture>
 
 <picture>
-<img  width = "10%" src = "https://github.com/user-attachments/assets/f728d9c9-93b4-4c15-8328-6f0a13e116d3"</img>
+<img  width = "10%" src = "https://github.com/user-attachments/assets/7462a49b-b9e4-4626-8e9d-ad197a9c737e"</img>
 </picture>
 
 <picture>
