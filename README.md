@@ -35,9 +35,8 @@
 ----
 
 <picture>
-<img  width = "10%" src = "https://img.icons8.com/?size=100&id=74402&format=png&color=000000"</img>
+<img  width = "10%" src = "https://icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png"</img>
 </picture>
-
 
 <picture>
 <img   width = "10%" src = "https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000"</img>
