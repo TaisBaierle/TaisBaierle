@@ -17,11 +17,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=29F742&width=600&lines=%F0%9F%92%9A+Favorite+repositories)](https://git.io/typing-svg)
 ----
 <picture>
-<img  width = "30%" src = "https://github-readme-stats.vercel.app/api/pin/?username=TaisBaierle&repo=AppOCR&theme=react&&title_color=b7d5ac&bg_color=#000000&order_color=#000000"</img>
+<img  width = "100%" src = "https://github-readme-stats.vercel.app/api/pin/?username=TaisBaierle&repo=AppOCR&theme=react&&title_color=b7d5ac&bg_color=#000000&order_color=#000000"</img>
 </picture>
 
 <picture>
-<img  width = "30%" src = "https://github-readme-stats.vercel.app/api/pin/?username=TaisBaierle&repo=ChatJava&theme=react&&title_color=b7d5ac&bg_color=#000000&order_color=#000000"</img>
+<img  width = "100%" src = "https://github-readme-stats.vercel.app/api/pin/?username=TaisBaierle&repo=ChatJava&theme=react&&title_color=b7d5ac&bg_color=#000000&order_color=#000000"</img>
 </picture>
 
 <br>
