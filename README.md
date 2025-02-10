@@ -36,29 +36,23 @@
 <picture>
 <img  width = "10%" src = "https://github.com/user-attachments/assets/04d4f58f-08ed-4d58-9409-cbb619eb34f2"</img>
 </picture>
-
 <picture>
 <img  width = "10%" src = "https://github.com/user-attachments/assets/b146d098-891d-4288-941d-c8815a2599d8"</img>
 </picture>
-
 <picture>
 <img  width = "10%" src = "https://github.com/user-attachments/assets/7462a49b-b9e4-4626-8e9d-ad197a9c737e"</img>
 </picture>
-
 <picture>
 <img  width = "10%" src = "https://github.com/user-attachments/assets/33caac23-5ed1-43e2-b7bd-d03b42837c64"</img>
 </picture>
-
 <picture>
 <img  width = "10%" src = "https://github.com/user-attachments/assets/6e07b15b-b73e-44ff-8fe9-aa330342b6dd"</img>
 </picture>
-
 <picture>
 <img  width = "10%" src = "https://github.com/user-attachments/assets/91ae3778-72be-416e-94c6-9b17c6b8459a"</img>
 </picture>
-
 <picture>
-<img  width = "10%" src = "https://github.com/user-attachments/assets/604fcaee-c6bc-4d53-8548-7eb55a6e1272"</img>
+<img  width = "10%" src = "https://github.com/user-attachments/assets/b8bac2a7-5991-4138-b48b-897c28ad2837"</img>
 </picture>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=29F742&width=600&lines=%F0%9F%93%8A+Stats)](https://git.io/typing-svg)
