@@ -9,13 +9,12 @@
   - 💻 I work as a Delphi developer, and I study web programming and develop personal projects.
   - 📖 I currently have a degree in **Sistemas de Informação** at Universidade Feevale.
   - 🌱 I'm also interested in studying ReactJS and non-relational databases.
-  - 🌟 **Pronouns:** She/Her.
+  - 🌟 **Pronouns:** She/Her.  
+</div>
 
 <picture>
 <img  width = "10%" src = "https://github.com/user-attachments/assets/7a51ab78-b1bc-40f4-b18a-6a61790f7fa4"</img>
 </picture>
-  
-</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=29F742&width=600&lines=%F0%9F%92%9A+Favorite+repositories)](https://git.io/typing-svg)
 ----
