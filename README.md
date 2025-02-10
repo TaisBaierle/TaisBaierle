@@ -50,12 +50,15 @@
 
 <br>
 <picture>
+  <a href="https://www.instagram.com/taisbaierle5/">
 <img width src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"</img>
 </picture>
 
 <picture>
+  <a href="www.linkedin.com/in/tais-baierle-a735ab14b">
 <img src="https://img.shields.io/badge/Linkedin-0096FF?style=for-the-badge&logo=linkedin&logoColor=white"</img>
 </picture>
+
 
 
 
