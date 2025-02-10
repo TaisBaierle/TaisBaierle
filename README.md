@@ -55,7 +55,7 @@
 </picture>
 
 <picture>
-  <a href=https://www.linkedin.com/in/tais-baierle-a735ab14b/">
+  <a href="https://www.linkedin.com/in/tais-baierle/">
 <img src="https://img.shields.io/badge/Linkedin-0096FF?style=for-the-badge&logo=linkedin&logoColor=white"</img>
 </picture>
 
