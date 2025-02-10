@@ -38,7 +38,7 @@
 </picture>
 
 <picture>
-<img width = "70%" align = "center" src = "https://streak-stats.demolab.com?user=TaisBaierle&theme=transparent&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&fire=72EB6A&sideLabels=72EB6A&currStreakLabel=72EB6A&ring=72EB6A&stroke=72EB6A&currStreakNum=72EB6A&sideNums=72EB6A"/img>
+<img width = "60%" align = "center" src = "https://streak-stats.demolab.com?user=TaisBaierle&theme=transparent&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&fire=72EB6A&sideLabels=72EB6A&currStreakLabel=72EB6A&ring=72EB6A&stroke=72EB6A&currStreakNum=72EB6A&sideNums=72EB6A"/img>
 </picture>
 
 <br>
